@@ -1,8 +1,24 @@
-# 👋 Hi, I'm Israel Ricardo Carreño Londoño
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Israel+Ricardo+Carreño+Londoño!;+Sr.+Flutter+Developer!;+Mobile+%26+Cross-Platform+Specialist!;+Clean+Architecture+Enthusiast!;)
+
+</div>
+
+<div align="center">
 
 🚀 **Sr. Flutter Developer** | Mobile & Cross-Platform Specialist | Clean Architecture Enthusiast
 
 📍 Colombia | 💼 Remote Developer
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Israelcarre2020/Israelcarre2020/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
@@ -49,22 +65,6 @@ I focus on creating scalable mobile applications using design patterns and archi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Israelcarre2020&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israelcarre2020&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Israelcarre2020&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Israelcarre2020&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF)
-
-</div>
-
----
-
 ## 📚 Principles & Practices
 
 - 🏗️ **Clean Architecture**: Separation of concerns and well-defined layers
@@ -91,5 +91,7 @@ I focus on creating scalable mobile applications using design patterns and archi
 ### 💡 "Building scalable mobile applications with Clean Architecture and SOLID principles"
 
 ⭐️ If you find any of my projects useful, don't forget to give them a star!
+
+---
 
 </div>
