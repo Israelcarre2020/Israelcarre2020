@@ -14,14 +14,6 @@
 
 ---
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Israelcarre2020/Israelcarre2020/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 🎯 About Me
 
 Full-Stack Mobile Developer specialized in **Flutter** with expertise in cross-platform solutions for Android, iOS, and Web. Passionate about **scalable software architecture**, applying **Clean Architecture** and **SOLID** principles to build maintainable and high-performance applications.
