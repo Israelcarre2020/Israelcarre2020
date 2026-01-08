@@ -1,2 +1,78 @@
-# Israelcarre2020
+# 👋 Hi, I'm Israel Ricardo Carreño Londoño
 
+🚀 **Sr. Flutter Developer** | Mobile & Cross-Platform Specialist | Clean Architecture Enthusiast
+
+📍 Colombia | 💼 Remote Developer
+
+---
+
+## 🎯 About Me
+
+Full-Stack Mobile Developer specialized in **Flutter** with expertise in cross-platform solutions for Android, iOS, and Web. Passionate about **scalable software architecture**, applying **Clean Architecture** and **SOLID** principles to build maintainable and high-performance applications.
+
+I focus on creating scalable mobile applications using design patterns and architectural principles. I also work with backend technologies like **NestJS**, **Node.js**, **TypeScript**, and **Next.js** to build end-to-end solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile & Cross-Platform
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)xw
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+### Backend & Web
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Architecture & DevOps
+
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-4ECDC4?style=for-the-badge&logo=solid&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Israelcarre2020&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israelcarre2020&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Israelcarre2020&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Israelcarre2020&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF)
+
+</div>
+
+---
+
+## 📞 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-ricardo-carreño-londoño)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isratecno@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Israelcarre2020)
+
+---
+
+<div align="center">
+  
+### 💡 "Building scalable mobile applications with Clean Architecture and SOLID principles"
+
+⭐️ If you find any of my projects useful, don't forget to give them a star!
+
+</div>
